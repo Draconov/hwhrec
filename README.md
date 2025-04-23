@@ -1,0 +1,2 @@
+# hwhrec
+Recognizing handwritten Hebrew
